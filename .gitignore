@@ -94,7 +94,6 @@ jspm_packages/
 *.iml
 
 # Visual Studio Code
-.vscode/
 !.vscode/tasks.json
 !.vscode/launch.json
 
