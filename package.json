@@ -1,0 +1,12 @@
+{
+  "name": "rush-example",
+  "version": "1.0.0",
+  "description": "This template is part of the documentation of the [Rush](https://rushjs.io/) tool. It contains documented templates for all the standard Rush configuration files. It also includes three barebones projects that illustrate some dependency relationships in a Rush repo:",
+  "main": "index.js",
+  "scripts": {
+    "start": "rush start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

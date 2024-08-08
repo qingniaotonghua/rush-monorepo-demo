@@ -1,0 +1,9 @@
+{
+  "name": "script-cli",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "minimist": "^1.2.8",
+    "shelljs": "^0.8.5"
+  }
+}
