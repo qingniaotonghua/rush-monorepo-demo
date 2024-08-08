@@ -17,7 +17,8 @@
       "summary": "启动项目",
       "description": "启动项目",
       "safeForSimultaneousRushProcesses": true,
-      "shellCommand": "node common/autoinstallers/script-cli/start.js"
+      "shellCommand": "node common/autoinstallers/script-cli/start.js",
+      "autoinstallerName": "script-cli"
     }
     // {
     //   /**
