@@ -54,7 +54,7 @@ importers:
         specifier: ^4.0.1
         version: 4.0.1(typescript@5.5.4)(vite@5.4.0)
 
-  ../../projects/test-ui-ww:
+  ../../projects/test-ui:
     dependencies:
       react:
         specifier: ^18.3.1
