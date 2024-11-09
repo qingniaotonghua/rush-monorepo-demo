@@ -299,10 +299,12 @@
    */
   "projects": [
     {
+      "shouldPublish":true,
       "packageName": "test-ui-ww",
       "projectFolder": "projects/test-ui"
     },
     {
+      "shouldPublish": true,
       "packageName": "test-core-ww",
       "projectFolder": "projects/test-core"
     }
